@@ -36,6 +36,48 @@ def get_tweets(username):
 		writer.writerows(tweets_for_csv)
 
 
+def clean_data(username):
+	file_name = "{0}_tweets.csv".format(username)
+	cleaned_tweets = []
+	with open(file_name) as csvfile:
+		for row in csvfile:
+			current_tweet = ''
+			row = row.split('|')
+			Is_retweet = False
+			if len(row) <= 1:
+				continue 
+			for i in xrange(2, len(row)):
+				text_array = row[i].split(" ")
+				print text_array
+				print type(text_array)
+				for word in text_array:
+					print len(word)
+					# removes some enocded chars
+					if len(word) < 1:
+						continue									
+					# skips hashtags
+					if word == "RT":
+						Is_retweet = True
+						break
+					if word[0] == '#':
+						continue	 					
+					# simple solution because all the URLs shared are https
+					if "https://" in word or "http://" in word:
+						continue
+					#rmeove @ from every word that beggins with it	
+					if word[0] == "@":
+						word = word[1:]
+					current_tweet += word + " "
+				if Is_retweet:
+					current_tweet = ""
+					break
+				if current_tweet != "":	
+					current_tweet = current_tweet[0:len(word)-1]
+					print current_tweet
+					cleaned_tweets.append(current_tweet)
+	print cleaned_tweets			
+
+
 
 #if we're running this as a script
 if __name__ == '__main__':
@@ -45,11 +87,9 @@ if __name__ == '__main__':
         get_tweets(sys.argv[1])
     else:
         print "Error: enter one username"
-
+    clean_data(sys.argv[1])
     #alternative method: loop through multiple users
 	# users = ['user1','user2']
-
+	# Gshankar_Gautam
 	# for user in users:
 	# 	get_tweets(user)
-get_tweets('Gshankar_Gautam')
-
