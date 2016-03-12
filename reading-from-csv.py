@@ -53,6 +53,7 @@ for row in reader:
         cleaned_tweets.append(clean_tweet)
 
 for tweet in cleaned_tweets:
+        tweet = re.sub("[^0-9a-zA-Z!\,;:'-_\.\^\$\*\+\?\s\"\-]", "",tweet)    
         f.write(tweet)               
         f.write('\n')
 f.close()
