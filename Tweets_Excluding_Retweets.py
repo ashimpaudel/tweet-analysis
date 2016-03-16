@@ -4,6 +4,9 @@
 import tweepy #https://github.com/tweepy/tweepy
 import csv
 
+import sys
+
+
 #Twitter API credentials
 consumer_key = "gSg0l33RA7pIw0s2Oz2dij97X"
 consumer_secret = "SlmtoRBot9tUwTQFOsCDDq5MKd0d4MEdVP2LNScj1rrCa7QGTU"
@@ -62,4 +65,9 @@ def get_all_tweets(screen_name):
 
 if __name__ == '__main__':
 	#pass in the username of the account you want to download
-	get_all_tweets("taylorswift13")
+	if len(sys.argv) == 2:
+		get_all_tweets(sys.argv[1])
+	elif len(sys.argv) > 2:
+		print "Please only supply one username"
+	else:
+		print "please supply one username."
