@@ -56,10 +56,10 @@ def get_all_tweets(screen_name):
 		writer.writerow(["text"])
 		writer.writerows(outtweets)
 	
-	pass
-get_all_tweets('taylorswift13')
+# 	pass
+# get_all_tweets('taylorswift13')
 
 
 if __name__ == '__main__':
 	#pass in the username of the account you want to download
-	get_all_tweets("J_tsar")
+	get_all_tweets("taylorswift13")

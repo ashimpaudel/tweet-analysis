@@ -1,8 +1,15 @@
+#import for regex matching
 import re 
+
+# import for reading and writing data from csv files
 import csv
 
+# import for text analysis
+from textstat.textstat import textstat
 
-f = open('workfileTrump.txt', 'w')
+
+
+f = open('taylorswift13_cleaned_tweets.txt', 'w')
 
 
 original = file('taylorswift13_tweets.csv', 'rU')
@@ -18,7 +25,7 @@ for row in reader:
     # splitting multi line tweets to form single array.
     multi_line_arr = tweet_str.split("\n")
    
-    # for multiline tweets, make asingel tweet string at index 0.
+    # for multiline tweets, make a single tweet string at index 0.
     if len(multi_line_arr) > 1:
         for i in xrange(1, len(multi_line_arr)):
             multi_line_arr[0] += " " + multi_line_arr[i]
@@ -37,7 +44,8 @@ for row in reader:
             clean_word = word[0:hash_index]
             clean_tweet += clean_word + " "            
             continue
-        # skipping URLS
+        # skipping URLS.
+        # TODO: need a better implementation to catch other URLs.
         if "https://" in word or "http://" in word:
             continue
         # handling @s    
@@ -51,9 +59,36 @@ for row in reader:
 
     if len(clean_tweet) > 0:
         cleaned_tweets.append(clean_tweet)
+    cleanest_tweets = []
 
+# removing unicode emoticons using regex, writing tweets to file, and to final array.
 for tweet in cleaned_tweets:
         tweet = re.sub("[^0-9a-zA-Z!\,;:'-_\.\^\$\*\+\?\s\"\-]", "",tweet)    
+        cleanest_tweets.append(tweet)
         f.write(tweet)               
         f.write('\n')
 f.close()
+
+grades = []
+num_tweets = 0
+total_grade = 0
+for tweet in cleanest_tweets:
+		# skipping tweets which are not just contextbased text. 
+		if textstat.sentence_count(tweet) < 1:
+			continue
+		grade = textstat.flesch_kincaid_grade(tweet)	
+		grades.append(grade)
+		total_grade += grade
+		num_tweets += 1
+
+#sorting for median
+grades.sort()
+#avg grade
+avg_grade = sum(grades) / num_tweets
+# median grade
+median_grade = grades[num_tweets / 2]
+print "Data for Taylor Swifts Tweets:"
+print "\nNumber of cleaned and evaluated tweets: ", num_tweets
+print "\naverage flesch_kincaid _grade: ", avg_grade
+print "\nmedian flesch_kincaid_grade: ", median_grade
+print "\nLooks like Taylor Swift has a readabiltiy of 5th Graders!"
