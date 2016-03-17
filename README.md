@@ -26,7 +26,7 @@ How to run:
   Output: Commandline output of number of tweets analyzed, average, and median Flesch–Kincaid grade scores.
   
   
-The program works when tested on Ubuntu 14.04 with Ubuntu, Python 2.7.11, and pip 8.1.0. 
+The program works when tested on Ubuntu 14.04 with Python 2.7.11, and pip 8.1.0. 
 
-Please make your own keys needed for Twitter.
+Please generate your own keys needed for Twitter.
 Then,replace them in the Tweets_Excluding_Retweets.py file, if you plan to use this code..
