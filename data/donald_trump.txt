@@ -1,0 +1,51 @@
+Data for  realDonaldTrump's Tweets:
+
+
+Number of cleaned and evaluated tweets:  3073
+
+
+Average Flesch-Kincaid grade:  6.54829157175
+Median Flesch-Kincaid grade:  6.0
+
+
+Average Gunning FOG Formula:  6.51025056948
+Median Gunning FOG Formula:  6.0
+
+
+Average SMOG INDEX:  0.525122030589
+Median SMOG INDEX:  0
+
+
+Average Automated Readability INDEX:  9.0969410999
+Median Automated Readability INDEX:  8.3
+
+
+Average Automated Readability INDEX:  9.0969410999
+Median Automated Readability INDEX:  8.3
+
+
+Average Coleman-Liau INDEX:  11.5918320859
+Median Coleman-Liau INDEX:  10.54
+
+
+Average Linsear Write Formula:  5.46680767979
+Median Linsear Write Formula:  4.5
+
+
+Average Dale-Chall Readability Score:  8.96955092743
+Median Dale-Chall Readability Score:  8.79
+
+
+Overall Flesch-Kincaid Grade across all tweets:  68.77
+
+Overall Gunning FOG Formula across all tweets:  6.4
+
+Overall SMOG INDEX across all tweets:  3.1
+
+Overall Automated Readability INDEX across all tweets:  8.5
+
+Overall Coleman-Liau INDEX across all tweets:  11.46
+
+Overall Linsear Write Formula across all tweets:  4.5
+
+Overall Dale-Chall Readability Score across all tweets:  6.28

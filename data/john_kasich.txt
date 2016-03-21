@@ -1,0 +1,51 @@
+Data for  JohnKasich's Tweets:
+
+
+Number of cleaned and evaluated tweets:  2348
+
+
+Average Flesch-Kincaid grade:  5.57947189097
+Median Flesch-Kincaid grade:  5.2
+
+
+Average Gunning FOG Formula:  6.08841567291
+Median Gunning FOG Formula:  5.6
+
+
+Average SMOG INDEX:  0.162180579216
+Median SMOG INDEX:  0
+
+
+Average Automated Readability INDEX:  7.42521294719
+Median Automated Readability INDEX:  7.1
+
+
+Average Automated Readability INDEX:  7.42521294719
+Median Automated Readability INDEX:  7.1
+
+
+Average Coleman-Liau INDEX:  9.86244037479
+Median Coleman-Liau INDEX:  9.45
+
+
+Average Linsear Write Formula:  4.66226575809
+Median Linsear Write Formula:  4.0
+
+
+Average Dale-Chall Readability Score:  8.82669931857
+Median Dale-Chall Readability Score:  8.68
+
+
+Overall Flesch-Kincaid Grade across all tweets:  78.25
+
+Overall Gunning FOG Formula across all tweets:  6.0
+
+Overall SMOG INDEX across all tweets:  3.1
+
+Overall Automated Readability INDEX across all tweets:  7.7
+
+Overall Coleman-Liau INDEX across all tweets:  10.77
+
+Overall Linsear Write Formula across all tweets:  5.5
+
+Overall Dale-Chall Readability Score across all tweets:  5.89

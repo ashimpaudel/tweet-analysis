@@ -70,6 +70,7 @@ if (len(sys.argv) == 2):
 	        cleanest_tweets.append(tweet)
 	        f.write(tweet)               
 	        f.write('\n')
+	f.close()
 	"""Getting Data for several types of readability tests.
 	   Learn more about each test from the link in the comments below."""
 	# flesch kincaid: goo.gl/nWMsiL 
@@ -189,7 +190,7 @@ if (len(sys.argv) == 2):
 	print "Median Dale-Chall Readability Score: ", dcr_median_grade
 
 	#evaluating all tweet history.
-	with open(sys.argv[1] + '_cleaned_tweets.txt', 'r') as content_file:
+	with open('./tweets/' + sys.argv[1] + '_cleaned_tweets.txt', 'r') as content_file:
 		content = content_file.read()
 	
 	overall_flesch_kincaid_grade = textstat.flesch_reading_ease(content)

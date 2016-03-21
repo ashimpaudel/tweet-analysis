@@ -1,0 +1,51 @@
+Data for  taylorswift13's Tweets:
+
+
+Number of cleaned and evaluated tweets:  1823
+
+
+Average Flesch-Kincaid grade:  4.80164563906
+Median Flesch-Kincaid grade:  4.4
+
+
+Average Gunning FOG Formula:  5.98178826111
+Median Gunning FOG Formula:  5.2
+
+
+Average SMOG INDEX:  0.315743280307
+Median SMOG INDEX:  0
+
+
+Average Automated Readability INDEX:  6.58771256171
+Median Automated Readability INDEX:  6.0
+
+
+Average Automated Readability INDEX:  6.58771256171
+Median Automated Readability INDEX:  6.0
+
+
+Average Coleman-Liau INDEX:  8.66427866155
+Median Coleman-Liau INDEX:  8.04
+
+
+Average Linsear Write Formula:  4.36533187054
+Median Linsear Write Formula:  3.5
+
+
+Average Dale-Chall Readability Score:  7.7732638508
+Median Dale-Chall Readability Score:  7.78
+
+
+Overall Flesch-Kincaid Grade across all tweets:  78.25
+
+Overall Gunning FOG Formula across all tweets:  6.0
+
+Overall SMOG INDEX across all tweets:  3.1
+
+Overall Automated Readability INDEX across all tweets:  6.5
+
+Overall Coleman-Liau INDEX across all tweets:  9.25
+
+Overall Linsear Write Formula across all tweets:  3.5
+
+Overall Dale-Chall Readability Score across all tweets:  6.34

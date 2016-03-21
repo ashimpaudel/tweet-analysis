@@ -1,0 +1,51 @@
+Data for  tedcruz's Tweets:
+
+
+Number of cleaned and evaluated tweets:  1097
+
+
+Average Flesch-Kincaid grade:  5.3354603464
+Median Flesch-Kincaid grade:  5.6
+
+
+Average Gunning FOG Formula:  6.1677301732
+Median Gunning FOG Formula:  6.0
+
+
+Average SMOG INDEX:  0.0645396536007
+Median SMOG INDEX:  0
+
+
+Average Automated Readability INDEX:  6.73053783045
+Median Automated Readability INDEX:  6.6
+
+
+Average Automated Readability INDEX:  6.73053783045
+Median Automated Readability INDEX:  6.6
+
+
+Average Coleman-Liau INDEX:  8.77649042844
+Median Coleman-Liau INDEX:  8.63
+
+
+Average Linsear Write Formula:  4.83318140383
+Median Linsear Write Formula:  4.5
+
+
+Average Dale-Chall Readability Score:  8.14402005469
+Median Dale-Chall Readability Score:  8.38
+
+
+Overall Flesch-Kincaid Grade across all tweets:  72.16
+
+Overall Gunning FOG Formula across all tweets:  8.4
+
+Overall SMOG INDEX across all tweets:  3.1
+
+Overall Automated Readability INDEX across all tweets:  9.7
+
+Overall Coleman-Liau INDEX across all tweets:  10.79
+
+Overall Linsear Write Formula across all tweets:  14.5
+
+Overall Dale-Chall Readability Score across all tweets:  6.52

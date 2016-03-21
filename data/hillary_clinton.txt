@@ -1,0 +1,51 @@
+Data for  HillaryClinton's Tweets:
+
+
+Number of cleaned and evaluated tweets:  2325
+
+
+Average Flesch-Kincaid grade:  7.13643010753
+Median Flesch-Kincaid grade:  7.2
+
+
+Average Gunning FOG Formula:  6.864
+Median Gunning FOG Formula:  6.4
+
+
+Average SMOG INDEX:  0.172086021505
+Median SMOG INDEX:  0
+
+
+Average Automated Readability INDEX:  8.20391397849
+Median Automated Readability INDEX:  8.1
+
+
+Average Automated Readability INDEX:  8.20391397849
+Median Automated Readability INDEX:  8.1
+
+
+Average Coleman-Liau INDEX:  10.236911828
+Median Coleman-Liau INDEX:  9.87
+
+
+Average Linsear Write Formula:  5.85741935484
+Median Linsear Write Formula:  5.0
+
+
+Average Dale-Chall Readability Score:  8.8255655914
+Median Dale-Chall Readability Score:  8.64
+
+
+Overall Flesch-Kincaid Grade across all tweets:  67.76
+
+Overall Gunning FOG Formula across all tweets:  6.8
+
+Overall SMOG INDEX across all tweets:  3.1
+
+Overall Automated Readability INDEX across all tweets:  8.2
+
+Overall Coleman-Liau INDEX across all tweets:  10.72
+
+Overall Linsear Write Formula across all tweets:  6.0
+
+Overall Dale-Chall Readability Score across all tweets:  6.25
