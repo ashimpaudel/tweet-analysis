@@ -12,10 +12,10 @@ import sys
 
 
 if (len(sys.argv) == 2):
-	f = open(sys.argv[1] + '_cleaned_tweets.txt', 'w')
+	f = open("./tweets/" + sys.argv[1] + "_cleaned_tweets.txt", 'w')
 
 
-	original = file(sys.argv[1] + '_tweets.csv', 'rU')
+	original = file("./tweets/" + sys.argv[1] + "_tweets.csv", 'rU')
 	reader = csv.reader(original)
 
 	cleaned_tweets = []
@@ -199,7 +199,7 @@ if (len(sys.argv) == 2):
 	overall_cli = textstat.coleman_liau_index(content)
 	overall_lwf = textstat.linsear_write_formula(content)
 	overall_dcr = textstat.dale_chall_readability_score(content)
-	
+
 	print "\n\nOverall Flesch-Kincaid Grade across all tweets: ", overall_flesch_kincaid_grade
 	print "\nOverall Gunning FOG Formula across all tweets: ", overall_gunning_fog_grade
 	print "\nOverall SMOG INDEX across all tweets: ", overall_smog_index
