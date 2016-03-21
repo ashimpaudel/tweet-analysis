@@ -71,36 +71,36 @@ if (len(sys.argv) == 2):
 	        f.write(tweet)               
 	        f.write('\n')
 
-	grades = []
+	flesch_kincaid_grades = []
 	num_tweets = 0
-	total_grade = 0
+	flesch_kincaid_total_grade = 0
 	for tweet in cleanest_tweets:
 			# skipping tweets which are not just contextbased text. 
 			if textstat.sentence_count(tweet) < 1:
 				continue
-			grade = textstat.flesch_kincaid_grade(tweet)	
-			grades.append(grade)
-			total_grade += grade
+			flesch_kincaid_grade = textstat.flesch_kincaid_grade(tweet)	
+			flesch_kincaid_grades.append(flesch_kincaid_grade)
+			flesch_kincaid_total_grade += flesch_kincaid_grade
 			num_tweets += 1
 
 
 	#sorting for median
-	grades.sort()
+	flesch_kincaid_grades.sort()
 	#avg grade
-	avg_grade = sum(grades) / num_tweets
+	avg_flesch_kincaid_grade = flesch_kincaid_total_grade / num_tweets
 	# median grade
-	median_grade = grades[num_tweets / 2]
+	flesch_kincaid_median_grade = flesch_kincaid_grades[num_tweets / 2]
 	print "Data for ", sys.argv[1] + "'s Tweets:"
 	print "\nNumber of cleaned and evaluated tweets: ", num_tweets
-	print "\naverage Flesch-Kincaid grade: ", avg_grade
-	print "\nmedian Flesch-Kincaid grade: ", median_grade
+	print "\naverage Flesch-Kincaid grade: ", avg_flesch_kincaid_grade
+	print "\nmedian Flesch-Kincaid grade: ", flesch_kincaid_median_grade
 
 	#evaluating all tweet history.
 	with open(sys.argv[1] + '_cleaned_tweets.txt', 'r') as content_file:
 		content = content_file.read()
-	overall_grade = textstat.flesch_kincaid_grade(content)
+	overall_flesch_kincaid_grade = textstat.flesch_reading_ease(content)
 
-	print "\nOverall Flesch-Kincaid across all tweet history: ", overall_grade	
+	print "\nOverall Flesch-Kincaid across all tweet history: ", overall_flesch_kincaid_grade	
 else:
 	print "Please just supply the username of the user you want evaluated.\n"
 
