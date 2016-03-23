@@ -1,0 +1,51 @@
+Data for  NASA's Tweets:
+
+
+Number of cleaned and evaluated tweets:  2337
+
+
+Average Flesch-Kincaid grade:  6.67214377407
+Median Flesch-Kincaid grade:  6.8
+
+
+Average Gunning FOG Formula:  6.38493795464
+Median Gunning FOG Formula:  6.4
+
+
+Average SMOG INDEX:  0.126700898588
+Median SMOG INDEX:  0
+
+
+Average Automated Readability INDEX:  8.67946084724
+Median Automated Readability INDEX:  8.5
+
+
+Average Automated Readability INDEX:  8.67946084724
+Median Automated Readability INDEX:  8.5
+
+
+Average Coleman-Liau INDEX:  11.4144030809
+Median Coleman-Liau INDEX:  10.91
+
+
+Average Linsear Write Formula:  5.27492511767
+Median Linsear Write Formula:  5.5
+
+
+Average Dale-Chall Readability Score:  9.30394950792
+Median Dale-Chall Readability Score:  9.2
+
+
+Overall Flesch-Kincaid Grade across all tweets:  61.67
+
+Overall Gunning FOG Formula across all tweets:  9.2
+
+Overall SMOG INDEX across all tweets:  8.8
+
+Overall Automated Readability INDEX across all tweets:  12.1
+
+Overall Coleman-Liau INDEX across all tweets:  12.53
+
+Overall Linsear Write Formula across all tweets:  5.0
+
+Overall Dale-Chall Readability Score across all tweets:  6.62
