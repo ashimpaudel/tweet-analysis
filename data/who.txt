@@ -1,0 +1,51 @@
+Data for  who's Tweets:
+
+
+Number of cleaned and evaluated tweets:  2899
+
+
+Average Flesch-Kincaid grade:  8.30072438772
+Median Flesch-Kincaid grade:  8.7
+
+
+Average Gunning FOG Formula:  7.50493273543
+Median Gunning FOG Formula:  7.6
+
+
+Average SMOG INDEX:  0.062745774405
+Median SMOG INDEX:  0
+
+
+Average Automated Readability INDEX:  10.1006209038
+Median Automated Readability INDEX:  10.3
+
+
+Average Automated Readability INDEX:  10.1006209038
+Median Automated Readability INDEX:  10.3
+
+
+Average Coleman-Liau INDEX:  11.9676440152
+Median Coleman-Liau INDEX:  11.77
+
+
+Average Linsear Write Formula:  7.09382545705
+Median Linsear Write Formula:  7.0
+
+
+Average Dale-Chall Readability Score:  9.66634011728
+Median Dale-Chall Readability Score:  9.64
+
+
+Overall Flesch-Kincaid Grade across all tweets:  17.68
+
+Overall Gunning FOG Formula across all tweets:  23.2
+
+Overall SMOG INDEX across all tweets:  13.0
+
+Overall Automated Readability INDEX across all tweets:  30.0
+
+Overall Coleman-Liau INDEX across all tweets:  14.06
+
+Overall Linsear Write Formula across all tweets:  58.0
+
+Overall Dale-Chall Readability Score across all tweets:  8.21

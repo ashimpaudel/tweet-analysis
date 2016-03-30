@@ -1,0 +1,51 @@
+Data for  mileycyrus's Tweets:
+
+
+Number of cleaned and evaluated tweets:  1787
+
+
+Average Flesch-Kincaid grade:  4.8720201455
+Median Flesch-Kincaid grade:  4.0
+
+
+Average Gunning FOG Formula:  5.67610520425
+Median Gunning FOG Formula:  4.4
+
+
+Average SMOG INDEX:  0.150643536654
+Median SMOG INDEX:  0
+
+
+Average Automated Readability INDEX:  6.78472299944
+Median Automated Readability INDEX:  5.8
+
+
+Average Automated Readability INDEX:  6.78472299944
+Median Automated Readability INDEX:  5.8
+
+
+Average Coleman-Liau INDEX:  9.16114157806
+Median Coleman-Liau INDEX:  7.7
+
+
+Average Linsear Write Formula:  3.22915500839
+Median Linsear Write Formula:  2.5
+
+
+Average Dale-Chall Readability Score:  7.8325573587
+Median Dale-Chall Readability Score:  7.78
+
+
+Overall Flesch-Kincaid Grade across all tweets:  71.14
+
+Overall Gunning FOG Formula across all tweets:  8.8
+
+Overall SMOG INDEX across all tweets:  8.8
+
+Overall Automated Readability INDEX across all tweets:  11.6
+
+Overall Coleman-Liau INDEX across all tweets:  12.24
+
+Overall Linsear Write Formula across all tweets:  4.0
+
+Overall Dale-Chall Readability Score across all tweets:  6.69

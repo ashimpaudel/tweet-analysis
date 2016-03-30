@@ -1,0 +1,51 @@
+Data for  un's Tweets:
+
+
+Number of cleaned and evaluated tweets:  1635
+
+
+Average Flesch-Kincaid grade:  7.56409785933
+Median Flesch-Kincaid grade:  7.6
+
+
+Average Gunning FOG Formula:  6.43840978593
+Median Gunning FOG Formula:  6.4
+
+
+Average SMOG INDEX:  0.0246483180428
+Median SMOG INDEX:  0
+
+
+Average Automated Readability INDEX:  9.23957186544
+Median Automated Readability INDEX:  9.1
+
+
+Average Automated Readability INDEX:  9.23957186544
+Median Automated Readability INDEX:  9.1
+
+
+Average Coleman-Liau INDEX:  12.1186666667
+Median Coleman-Liau INDEX:  11.72
+
+
+Average Linsear Write Formula:  5.43302752294
+Median Linsear Write Formula:  5.5
+
+
+Average Dale-Chall Readability Score:  10.2085076453
+Median Dale-Chall Readability Score:  10.05
+
+
+Overall Flesch-Kincaid Grade across all tweets:  41.03
+
+Overall Gunning FOG Formula across all tweets:  14.0
+
+Overall SMOG INDEX across all tweets:  11.2
+
+Overall Automated Readability INDEX across all tweets:  18.8
+
+Overall Coleman-Liau INDEX across all tweets:  14.34
+
+Overall Linsear Write Formula across all tweets:  28.0
+
+Overall Dale-Chall Readability Score across all tweets:  7.78

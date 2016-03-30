@@ -1,0 +1,51 @@
+Data for  kanyewest's Tweets:
+
+
+Number of cleaned and evaluated tweets:  639
+
+
+Average Flesch-Kincaid grade:  4.75665101721
+Median Flesch-Kincaid grade:  4.8
+
+
+Average Gunning FOG Formula:  6.64726134585
+Median Gunning FOG Formula:  6.0
+
+
+Average SMOG INDEX:  0.12613458529
+Median SMOG INDEX:  0
+
+
+Average Automated Readability INDEX:  5.23161189358
+Median Automated Readability INDEX:  5.0
+
+
+Average Automated Readability INDEX:  5.23161189358
+Median Automated Readability INDEX:  5.0
+
+
+Average Coleman-Liau INDEX:  6.38424100156
+Median Coleman-Liau INDEX:  6.12
+
+
+Average Linsear Write Formula:  5.10798122066
+Median Linsear Write Formula:  4.5
+
+
+Average Dale-Chall Readability Score:  7.38165884194
+Median Dale-Chall Readability Score:  7.34
+
+
+Overall Flesch-Kincaid Grade across all tweets:  78.59
+
+Overall Gunning FOG Formula across all tweets:  9.2
+
+Overall SMOG INDEX across all tweets:  3.1
+
+Overall Automated Readability INDEX across all tweets:  8.6
+
+Overall Coleman-Liau INDEX across all tweets:  8.18
+
+Overall Linsear Write Formula across all tweets:  4.0
+
+Overall Dale-Chall Readability Score across all tweets:  6.76

@@ -1,0 +1,51 @@
+Data for  nietzsche's Tweets:
+
+
+Number of cleaned and evaluated tweets:  250
+
+
+Average Flesch-Kincaid grade:  6.4744
+Median Flesch-Kincaid grade:  6.4
+
+
+Average Gunning FOG Formula:  7.392
+Median Gunning FOG Formula:  7.2
+
+
+Average SMOG INDEX:  0.1612
+Median SMOG INDEX:  0
+
+
+Average Automated Readability INDEX:  7.3304
+Median Automated Readability INDEX:  6.5
+
+
+Average Automated Readability INDEX:  7.3304
+Median Automated Readability INDEX:  6.5
+
+
+Average Coleman-Liau INDEX:  8.33188
+Median Coleman-Liau INDEX:  7.47
+
+
+Average Linsear Write Formula:  6.498
+Median Linsear Write Formula:  5.5
+
+
+Average Dale-Chall Readability Score:  7.41252
+Median Dale-Chall Readability Score:  7.42
+
+
+Overall Flesch-Kincaid Grade across all tweets:  74.19
+
+Overall Gunning FOG Formula across all tweets:  7.6
+
+Overall SMOG INDEX across all tweets:  3.1
+
+Overall Automated Readability INDEX across all tweets:  7.3
+
+Overall Coleman-Liau INDEX across all tweets:  8.81
+
+Overall Linsear Write Formula across all tweets:  6.5
+
+Overall Dale-Chall Readability Score across all tweets:  6.99

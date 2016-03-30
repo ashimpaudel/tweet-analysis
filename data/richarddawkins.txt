@@ -1,0 +1,51 @@
+Data for  richarddawkins's Tweets:
+
+
+Number of cleaned and evaluated tweets:  1526
+
+
+Average Flesch-Kincaid grade:  6.84528178244
+Median Flesch-Kincaid grade:  6.4
+
+
+Average Gunning FOG Formula:  6.33132372215
+Median Gunning FOG Formula:  5.6
+
+
+Average SMOG INDEX:  0.653407601573
+Median SMOG INDEX:  0
+
+
+Average Automated Readability INDEX:  8.34803407602
+Median Automated Readability INDEX:  7.9
+
+
+Average Automated Readability INDEX:  8.34803407602
+Median Automated Readability INDEX:  7.9
+
+
+Average Coleman-Liau INDEX:  10.8921166448
+Median Coleman-Liau INDEX:  10.53
+
+
+Average Linsear Write Formula:  5.12385321101
+Median Linsear Write Formula:  4.5
+
+
+Average Dale-Chall Readability Score:  8.96596985583
+Median Dale-Chall Readability Score:  8.79
+
+
+Overall Flesch-Kincaid Grade across all tweets:  69.79
+
+Overall Gunning FOG Formula across all tweets:  6.0
+
+Overall SMOG INDEX across all tweets:  3.1
+
+Overall Automated Readability INDEX across all tweets:  7.9
+
+Overall Coleman-Liau INDEX across all tweets:  10.99
+
+Overall Linsear Write Formula across all tweets:  8.5
+
+Overall Dale-Chall Readability Score across all tweets:  7.24

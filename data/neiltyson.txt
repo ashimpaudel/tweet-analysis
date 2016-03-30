@@ -1,0 +1,51 @@
+Data for  neiltyson's Tweets:
+
+
+Number of cleaned and evaluated tweets:  3221
+
+
+Average Flesch-Kincaid grade:  6.75541757218
+Median Flesch-Kincaid grade:  6.4
+
+
+Average Gunning FOG Formula:  6.96330332195
+Median Gunning FOG Formula:  6.4
+
+
+Average SMOG INDEX:  0.463644830798
+Median SMOG INDEX:  0
+
+
+Average Automated Readability INDEX:  8.96249611922
+Median Automated Readability INDEX:  8.6
+
+
+Average Automated Readability INDEX:  8.96249611922
+Median Automated Readability INDEX:  8.6
+
+
+Average Coleman-Liau INDEX:  10.9903787644
+Median Coleman-Liau INDEX:  10.15
+
+
+Average Linsear Write Formula:  6.052157715
+Median Linsear Write Formula:  5.0
+
+
+Average Dale-Chall Readability Score:  9.0201676498
+Median Dale-Chall Readability Score:  8.84
+
+
+Overall Flesch-Kincaid Grade across all tweets:  66.74
+
+Overall Gunning FOG Formula across all tweets:  7.2
+
+Overall SMOG INDEX across all tweets:  3.1
+
+Overall Automated Readability INDEX across all tweets:  9.1
+
+Overall Coleman-Liau INDEX across all tweets:  11.48
+
+Overall Linsear Write Formula across all tweets:  9.0
+
+Overall Dale-Chall Readability Score across all tweets:  6.84

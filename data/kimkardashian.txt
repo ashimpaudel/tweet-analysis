@@ -1,0 +1,51 @@
+Data for  kimkardashian's Tweets:
+
+
+Number of cleaned and evaluated tweets:  2390
+
+
+Average Flesch-Kincaid grade:  4.24456066946
+Median Flesch-Kincaid grade:  3.7
+
+
+Average Gunning FOG Formula:  5.63313807531
+Median Gunning FOG Formula:  4.8
+
+
+Average SMOG INDEX:  0.257907949791
+Median SMOG INDEX:  0
+
+
+Average Automated Readability INDEX:  5.74251046025
+Median Automated Readability INDEX:  4.9
+
+
+Average Automated Readability INDEX:  5.74251046025
+Median Automated Readability INDEX:  4.9
+
+
+Average Coleman-Liau INDEX:  7.85241004184
+Median Coleman-Liau INDEX:  6.85
+
+
+Average Linsear Write Formula:  3.30167364017
+Median Linsear Write Formula:  2.5
+
+
+Average Dale-Chall Readability Score:  7.73112552301
+Median Dale-Chall Readability Score:  7.77
+
+
+Overall Flesch-Kincaid Grade across all tweets:  78.25
+
+Overall Gunning FOG Formula across all tweets:  6.0
+
+Overall SMOG INDEX across all tweets:  3.1
+
+Overall Automated Readability INDEX across all tweets:  6.8
+
+Overall Coleman-Liau INDEX across all tweets:  9.49
+
+Overall Linsear Write Formula across all tweets:  3.5
+
+Overall Dale-Chall Readability Score across all tweets:  6.07

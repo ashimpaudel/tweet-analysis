@@ -1,0 +1,51 @@
+Data for  teletubbieshq's Tweets:
+
+
+Number of cleaned and evaluated tweets:  217
+
+
+Average Flesch-Kincaid grade:  5.18202764977
+Median Flesch-Kincaid grade:  5.2
+
+
+Average Gunning FOG Formula:  5.65714285714
+Median Gunning FOG Formula:  5.2
+
+
+Average SMOG INDEX:  0.1
+Median SMOG INDEX:  0
+
+
+Average Automated Readability INDEX:  7.2202764977
+Median Automated Readability INDEX:  6.8
+
+
+Average Automated Readability INDEX:  7.2202764977
+Median Automated Readability INDEX:  6.8
+
+
+Average Coleman-Liau INDEX:  10.0264976959
+Median Coleman-Liau INDEX:  9.35
+
+
+Average Linsear Write Formula:  4.21198156682
+Median Linsear Write Formula:  3.5
+
+
+Average Dale-Chall Readability Score:  8.27797235023
+Median Dale-Chall Readability Score:  8.38
+
+
+Overall Flesch-Kincaid Grade across all tweets:  78.25
+
+Overall Gunning FOG Formula across all tweets:  6.0
+
+Overall SMOG INDEX across all tweets:  3.1
+
+Overall Automated Readability INDEX across all tweets:  7.5
+
+Overall Coleman-Liau INDEX across all tweets:  10.59
+
+Overall Linsear Write Formula across all tweets:  4.0
+
+Overall Dale-Chall Readability Score across all tweets:  6.57
