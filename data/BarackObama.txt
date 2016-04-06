@@ -1,0 +1,51 @@
+Data for  BarackObama's Tweets:
+
+
+Number of cleaned and evaluated tweets:  2870
+
+
+Average Flesch-Kincaid grade:  7.67780487805
+Median Flesch-Kincaid grade:  7.9
+
+
+Average Gunning FOG Formula:  6.91679442509
+Median Gunning FOG Formula:  6.8
+
+
+Average SMOG INDEX:  0.0527526132404
+Median SMOG INDEX:  0
+
+
+Average Automated Readability INDEX:  8.59867595819
+Median Automated Readability INDEX:  8.9
+
+
+Average Automated Readability INDEX:  8.59867595819
+Median Automated Readability INDEX:  8.9
+
+
+Average Coleman-Liau INDEX:  10.7517247387
+Median Coleman-Liau INDEX:  10.72
+
+
+Average Linsear Write Formula:  5.84285714286
+Median Linsear Write Formula:  5.5
+
+
+Average Dale-Chall Readability Score:  9.15434494774
+Median Dale-Chall Readability Score:  9.19
+
+
+Overall Flesch-Kincaid Grade across all tweets:  55.24
+
+Overall Gunning FOG Formula across all tweets:  8.4
+
+Overall SMOG INDEX across all tweets:  3.1
+
+Overall Automated Readability INDEX across all tweets:  11.0
+
+Overall Coleman-Liau INDEX across all tweets:  12.06
+
+Overall Linsear Write Formula across all tweets:  11.5
+
+Overall Dale-Chall Readability Score across all tweets:  5.93

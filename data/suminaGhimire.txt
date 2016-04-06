@@ -1,0 +1,51 @@
+Data for  sumina888's Tweets:
+
+
+Number of cleaned and evaluated tweets:  2
+
+
+Average Flesch-Kincaid grade:  6.8
+Median Flesch-Kincaid grade:  9.6
+
+
+Average Gunning FOG Formula:  5.6
+Median Gunning FOG Formula:  6.4
+
+
+Average SMOG INDEX:  0
+Median SMOG INDEX:  0
+
+
+Average Automated Readability INDEX:  8.75
+Median Automated Readability INDEX:  10.3
+
+
+Average Automated Readability INDEX:  8.75
+Median Automated Readability INDEX:  10.3
+
+
+Average Coleman-Liau INDEX:  12.435
+Median Coleman-Liau INDEX:  14.86
+
+
+Average Linsear Write Formula:  4.0
+Median Linsear Write Formula:  4.5
+
+
+Average Dale-Chall Readability Score:  10.75
+Median Dale-Chall Readability Score:  13.01
+
+
+Overall Flesch-Kincaid Grade across all tweets:  69.79
+
+Overall Gunning FOG Formula across all tweets:  6.0
+
+Overall SMOG INDEX across all tweets:  0
+
+Overall Automated Readability INDEX across all tweets:  10.5
+
+Overall Coleman-Liau INDEX across all tweets:  14.13
+
+Overall Linsear Write Formula across all tweets:  4.5
+
+Overall Dale-Chall Readability Score across all tweets:  10.15

@@ -1,0 +1,51 @@
+Data for  michiokaku's Tweets:
+
+
+Number of cleaned and evaluated tweets:  1134
+
+
+Average Flesch-Kincaid grade:  6.10917107584
+Median Flesch-Kincaid grade:  6.0
+
+
+Average Gunning FOG Formula:  7.07654320988
+Median Gunning FOG Formula:  6.8
+
+
+Average SMOG INDEX:  0.2569664903
+Median SMOG INDEX:  0
+
+
+Average Automated Readability INDEX:  7.58403880071
+Median Automated Readability INDEX:  7.4
+
+
+Average Automated Readability INDEX:  7.58403880071
+Median Automated Readability INDEX:  7.4
+
+
+Average Coleman-Liau INDEX:  9.2241622575
+Median Coleman-Liau INDEX:  9.04
+
+
+Average Linsear Write Formula:  6.09171075838
+Median Linsear Write Formula:  5.5
+
+
+Average Dale-Chall Readability Score:  9.09333333333
+Median Dale-Chall Readability Score:  9.03
+
+
+Overall Flesch-Kincaid Grade across all tweets:  75.2
+
+Overall Gunning FOG Formula across all tweets:  7.2
+
+Overall SMOG INDEX across all tweets:  3.1
+
+Overall Automated Readability INDEX across all tweets:  8.1
+
+Overall Coleman-Liau INDEX across all tweets:  9.85
+
+Overall Linsear Write Formula across all tweets:  7.0
+
+Overall Dale-Chall Readability Score across all tweets:  6.43

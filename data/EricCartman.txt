@@ -1,0 +1,51 @@
+Data for  Trey_Parker's Tweets:
+
+
+Number of cleaned and evaluated tweets:  712
+
+
+Average Flesch-Kincaid grade:  4.22893258427
+Median Flesch-Kincaid grade:  4.0
+
+
+Average Gunning FOG Formula:  5.77191011236
+Median Gunning FOG Formula:  5.2
+
+
+Average SMOG INDEX:  0.12191011236
+Median SMOG INDEX:  0
+
+
+Average Automated Readability INDEX:  6.48202247191
+Median Automated Readability INDEX:  6.3
+
+
+Average Automated Readability INDEX:  6.48202247191
+Median Automated Readability INDEX:  6.3
+
+
+Average Coleman-Liau INDEX:  8.77028089888
+Median Coleman-Liau INDEX:  8.44
+
+
+Average Linsear Write Formula:  3.86938202247
+Median Linsear Write Formula:  3.0
+
+
+Average Dale-Chall Readability Score:  8.34683988764
+Median Dale-Chall Readability Score:  8.04
+
+
+Overall Flesch-Kincaid Grade across all tweets:  79.26
+
+Overall Gunning FOG Formula across all tweets:  5.6
+
+Overall SMOG INDEX across all tweets:  3.1
+
+Overall Automated Readability INDEX across all tweets:  6.4
+
+Overall Coleman-Liau INDEX across all tweets:  9.66
+
+Overall Linsear Write Formula across all tweets:  3.0
+
+Overall Dale-Chall Readability Score across all tweets:  6.95

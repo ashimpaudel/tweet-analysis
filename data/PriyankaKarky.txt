@@ -1,0 +1,51 @@
+Data for  PriyankaKarky's Tweets:
+
+
+Number of cleaned and evaluated tweets:  2222
+
+
+Average Flesch-Kincaid grade:  4.89374437444
+Median Flesch-Kincaid grade:  4.4
+
+
+Average Gunning FOG Formula:  5.37083708371
+Median Gunning FOG Formula:  4.4
+
+
+Average SMOG INDEX:  0.365346534653
+Median SMOG INDEX:  0
+
+
+Average Automated Readability INDEX:  8.0899639964
+Median Automated Readability INDEX:  7.2
+
+
+Average Automated Readability INDEX:  8.0899639964
+Median Automated Readability INDEX:  7.2
+
+
+Average Coleman-Liau INDEX:  10.9848514851
+Median Coleman-Liau INDEX:  9.94
+
+
+Average Linsear Write Formula:  3.17371737174
+Median Linsear Write Formula:  2.5
+
+
+Average Dale-Chall Readability Score:  8.78606660666
+Median Dale-Chall Readability Score:  8.5
+
+
+Overall Flesch-Kincaid Grade across all tweets:  70.8
+
+Overall Gunning FOG Formula across all tweets:  5.6
+
+Overall SMOG INDEX across all tweets:  3.1
+
+Overall Automated Readability INDEX across all tweets:  8.4
+
+Overall Coleman-Liau INDEX across all tweets:  11.92
+
+Overall Linsear Write Formula across all tweets:  8.5
+
+Overall Dale-Chall Readability Score across all tweets:  6.67

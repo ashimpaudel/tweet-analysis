@@ -1,0 +1,51 @@
+Data for  Shakespeare's Tweets:
+
+
+Number of cleaned and evaluated tweets:  2527
+
+
+Average Flesch-Kincaid grade:  5.42825484765
+Median Flesch-Kincaid grade:  4.8
+
+
+Average Gunning FOG Formula:  6.52995647012
+Median Gunning FOG Formula:  5.6
+
+
+Average SMOG INDEX:  0.304036406806
+Median SMOG INDEX:  0
+
+
+Average Automated Readability INDEX:  6.9876929165
+Median Automated Readability INDEX:  5.9
+
+
+Average Automated Readability INDEX:  6.9876929165
+Median Automated Readability INDEX:  5.9
+
+
+Average Coleman-Liau INDEX:  9.52420261179
+Median Coleman-Liau INDEX:  8.28
+
+
+Average Linsear Write Formula:  4.29936683815
+Median Linsear Write Formula:  3.5
+
+
+Average Dale-Chall Readability Score:  8.3586822319
+Median Dale-Chall Readability Score:  8.04
+
+
+Overall Flesch-Kincaid Grade across all tweets:  79.26
+
+Overall Gunning FOG Formula across all tweets:  5.6
+
+Overall SMOG INDEX across all tweets:  3.1
+
+Overall Automated Readability INDEX across all tweets:  6.2
+
+Overall Coleman-Liau INDEX across all tweets:  9.43
+
+Overall Linsear Write Formula across all tweets:  2.5
+
+Overall Dale-Chall Readability Score across all tweets:  6.55
