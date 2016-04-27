@@ -1,0 +1,51 @@
+Data for  donnabrazile's Tweets:
+
+
+Number of cleaned and evaluated tweets:  1667
+
+
+Average Flesch-Kincaid grade:  5.67198560288
+Median Flesch-Kincaid grade:  5.2
+
+
+Average Gunning FOG Formula:  6.13821235753
+Median Gunning FOG Formula:  5.6
+
+
+Average SMOG INDEX:  0.402639472106
+Median SMOG INDEX:  0
+
+
+Average Automated Readability INDEX:  7.07912417516
+Median Automated Readability INDEX:  6.9
+
+
+Average Automated Readability INDEX:  7.07912417516
+Median Automated Readability INDEX:  6.9
+
+
+Average Coleman-Liau INDEX:  9.23700659868
+Median Coleman-Liau INDEX:  9.0
+
+
+Average Linsear Write Formula:  4.75794841032
+Median Linsear Write Formula:  4.0
+
+
+Average Dale-Chall Readability Score:  8.39675464907
+Median Dale-Chall Readability Score:  8.44
+
+
+Overall Flesch-Kincaid Grade across all tweets:  78.25
+
+Overall Gunning FOG Formula across all tweets:  6.0
+
+Overall SMOG INDEX across all tweets:  3.1
+
+Overall Automated Readability INDEX across all tweets:  7.3
+
+Overall Coleman-Liau INDEX across all tweets:  10.13
+
+Overall Linsear Write Formula across all tweets:  4.0
+
+Overall Dale-Chall Readability Score across all tweets:  6.62

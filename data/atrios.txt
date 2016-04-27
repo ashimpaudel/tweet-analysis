@@ -1,0 +1,51 @@
+Data for  atrios's Tweets:
+
+
+Number of cleaned and evaluated tweets:  2939
+
+
+Average Flesch-Kincaid grade:  6.35804695475
+Median Flesch-Kincaid grade:  6.0
+
+
+Average Gunning FOG Formula:  6.44178291936
+Median Gunning FOG Formula:  6.0
+
+
+Average SMOG INDEX:  0.165464443688
+Median SMOG INDEX:  0
+
+
+Average Automated Readability INDEX:  7.6421912215
+Median Automated Readability INDEX:  7.4
+
+
+Average Automated Readability INDEX:  7.6421912215
+Median Automated Readability INDEX:  7.4
+
+
+Average Coleman-Liau INDEX:  9.76509356924
+Median Coleman-Liau INDEX:  9.39
+
+
+Average Linsear Write Formula:  5.079618918
+Median Linsear Write Formula:  4.5
+
+
+Average Dale-Chall Readability Score:  8.51826131337
+Median Dale-Chall Readability Score:  8.38
+
+
+Overall Flesch-Kincaid Grade across all tweets:  56.59
+
+Overall Gunning FOG Formula across all tweets:  11.2
+
+Overall SMOG INDEX across all tweets:  8.8
+
+Overall Automated Readability INDEX across all tweets:  13.6
+
+Overall Coleman-Liau INDEX across all tweets:  11.96
+
+Overall Linsear Write Formula across all tweets:  28.5
+
+Overall Dale-Chall Readability Score across all tweets:  7.0

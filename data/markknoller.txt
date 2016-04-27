@@ -1,0 +1,51 @@
+Data for  markknoller's Tweets:
+
+
+Number of cleaned and evaluated tweets:  3159
+
+
+Average Flesch-Kincaid grade:  8.33956948401
+Median Flesch-Kincaid grade:  8.7
+
+
+Average Gunning FOG Formula:  7.96657169991
+Median Gunning FOG Formula:  8.0
+
+
+Average SMOG INDEX:  0.12905982906
+Median SMOG INDEX:  0
+
+
+Average Automated Readability INDEX:  10.4222855334
+Median Automated Readability INDEX:  10.7
+
+
+Average Automated Readability INDEX:  10.4222855334
+Median Automated Readability INDEX:  10.7
+
+
+Average Coleman-Liau INDEX:  11.7803260525
+Median Coleman-Liau INDEX:  11.43
+
+
+Average Linsear Write Formula:  7.52469135802
+Median Linsear Write Formula:  7.5
+
+
+Average Dale-Chall Readability Score:  10.0323425135
+Median Dale-Chall Readability Score:  9.94
+
+
+Overall Flesch-Kincaid Grade across all tweets:  66.74
+
+Overall Gunning FOG Formula across all tweets:  7.2
+
+Overall SMOG INDEX across all tweets:  3.1
+
+Overall Automated Readability INDEX across all tweets:  9.7
+
+Overall Coleman-Liau INDEX across all tweets:  12.0
+
+Overall Linsear Write Formula across all tweets:  4.5
+
+Overall Dale-Chall Readability Score across all tweets:  6.45

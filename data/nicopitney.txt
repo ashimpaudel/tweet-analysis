@@ -1,0 +1,51 @@
+Data for  nicopitney's Tweets:
+
+
+Number of cleaned and evaluated tweets:  1059
+
+
+Average Flesch-Kincaid grade:  6.33106704438
+Median Flesch-Kincaid grade:  6.4
+
+
+Average Gunning FOG Formula:  6.60321057602
+Median Gunning FOG Formula:  6.0
+
+
+Average SMOG INDEX:  0.158073654391
+Median SMOG INDEX:  0
+
+
+Average Automated Readability INDEX:  8.64787535411
+Median Automated Readability INDEX:  8.5
+
+
+Average Automated Readability INDEX:  8.64787535411
+Median Automated Readability INDEX:  8.5
+
+
+Average Coleman-Liau INDEX:  10.9788385269
+Median Coleman-Liau INDEX:  10.54
+
+
+Average Linsear Write Formula:  5.27809254013
+Median Linsear Write Formula:  4.5
+
+
+Average Dale-Chall Readability Score:  9.35404154863
+Median Dale-Chall Readability Score:  9.2
+
+
+Overall Flesch-Kincaid Grade across all tweets:  64.71
+
+Overall Gunning FOG Formula across all tweets:  8.0
+
+Overall SMOG INDEX across all tweets:  3.1
+
+Overall Automated Readability INDEX across all tweets:  10.6
+
+Overall Coleman-Liau INDEX across all tweets:  12.35
+
+Overall Linsear Write Formula across all tweets:  6.5
+
+Overall Dale-Chall Readability Score across all tweets:  8.21

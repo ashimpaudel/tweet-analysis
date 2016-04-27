@@ -1,0 +1,51 @@
+Data for  cbellantoni's Tweets:
+
+
+Number of cleaned and evaluated tweets:  2218
+
+
+Average Flesch-Kincaid grade:  6.15631199279
+Median Flesch-Kincaid grade:  6.0
+
+
+Average Gunning FOG Formula:  6.00667267809
+Median Gunning FOG Formula:  5.6
+
+
+Average SMOG INDEX:  0.154914337241
+Median SMOG INDEX:  0
+
+
+Average Automated Readability INDEX:  8.10798016231
+Median Automated Readability INDEX:  7.7
+
+
+Average Automated Readability INDEX:  8.10798016231
+Median Automated Readability INDEX:  7.7
+
+
+Average Coleman-Liau INDEX:  10.8482867448
+Median Coleman-Liau INDEX:  10.27
+
+
+Average Linsear Write Formula:  4.4100541028
+Median Linsear Write Formula:  4.0
+
+
+Average Dale-Chall Readability Score:  9.30664111812
+Median Dale-Chall Readability Score:  9.2
+
+
+Overall Flesch-Kincaid Grade across all tweets:  68.77
+
+Overall Gunning FOG Formula across all tweets:  6.4
+
+Overall SMOG INDEX across all tweets:  3.1
+
+Overall Automated Readability INDEX across all tweets:  8.7
+
+Overall Coleman-Liau INDEX across all tweets:  11.75
+
+Overall Linsear Write Formula across all tweets:  4.0
+
+Overall Dale-Chall Readability Score across all tweets:  7.05

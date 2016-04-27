@@ -1,0 +1,51 @@
+Data for  ewerickson's Tweets:
+
+
+Number of cleaned and evaluated tweets:  934
+
+
+Average Flesch-Kincaid grade:  5.93961456103
+Median Flesch-Kincaid grade:  5.6
+
+
+Average Gunning FOG Formula:  6.33104925054
+Median Gunning FOG Formula:  5.6
+
+
+Average SMOG INDEX:  0.118950749465
+Median SMOG INDEX:  0
+
+
+Average Automated Readability INDEX:  7.54325481799
+Median Automated Readability INDEX:  7.4
+
+
+Average Automated Readability INDEX:  7.54325481799
+Median Automated Readability INDEX:  7.4
+
+
+Average Coleman-Liau INDEX:  9.66314775161
+Median Coleman-Liau INDEX:  9.31
+
+
+Average Linsear Write Formula:  4.80032119914
+Median Linsear Write Formula:  4.0
+
+
+Average Dale-Chall Readability Score:  8.69186295503
+Median Dale-Chall Readability Score:  8.5
+
+
+Overall Flesch-Kincaid Grade across all tweets:  76.22
+
+Overall Gunning FOG Formula across all tweets:  6.8
+
+Overall SMOG INDEX across all tweets:  3.1
+
+Overall Automated Readability INDEX across all tweets:  8.1
+
+Overall Coleman-Liau INDEX across all tweets:  10.66
+
+Overall Linsear Write Formula across all tweets:  5.0
+
+Overall Dale-Chall Readability Score across all tweets:  7.12

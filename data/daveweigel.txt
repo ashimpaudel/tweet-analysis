@@ -1,0 +1,51 @@
+Data for  daveweigel's Tweets:
+
+
+Number of cleaned and evaluated tweets:  1801
+
+
+Average Flesch-Kincaid grade:  6.08373126041
+Median Flesch-Kincaid grade:  6.0
+
+
+Average Gunning FOG Formula:  6.89483620211
+Median Gunning FOG Formula:  6.4
+
+
+Average SMOG INDEX:  0.0860632981677
+Median SMOG INDEX:  0
+
+
+Average Automated Readability INDEX:  7.61554691838
+Median Automated Readability INDEX:  7.6
+
+
+Average Automated Readability INDEX:  7.61554691838
+Median Automated Readability INDEX:  7.6
+
+
+Average Coleman-Liau INDEX:  9.28178234314
+Median Coleman-Liau INDEX:  9.06
+
+
+Average Linsear Write Formula:  5.60355358134
+Median Linsear Write Formula:  5.0
+
+
+Average Dale-Chall Readability Score:  8.57774014436
+Median Dale-Chall Readability Score:  8.5
+
+
+Overall Flesch-Kincaid Grade across all tweets:  72.16
+
+Overall Gunning FOG Formula across all tweets:  8.4
+
+Overall SMOG INDEX across all tweets:  3.1
+
+Overall Automated Readability INDEX across all tweets:  9.6
+
+Overall Coleman-Liau INDEX across all tweets:  10.61
+
+Overall Linsear Write Formula across all tweets:  6.0
+
+Overall Dale-Chall Readability Score across all tweets:  6.98

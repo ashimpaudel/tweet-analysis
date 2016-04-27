@@ -1,0 +1,51 @@
+Data for  dmataconis's Tweets:
+
+
+Number of cleaned and evaluated tweets:  1889
+
+
+Average Flesch-Kincaid grade:  6.41810481736
+Median Flesch-Kincaid grade:  6.4
+
+
+Average Gunning FOG Formula:  6.22890418211
+Median Gunning FOG Formula:  5.6
+
+
+Average SMOG INDEX:  0.0670195870831
+Median SMOG INDEX:  0
+
+
+Average Automated Readability INDEX:  7.80698782425
+Median Automated Readability INDEX:  7.7
+
+
+Average Automated Readability INDEX:  7.80698782425
+Median Automated Readability INDEX:  7.7
+
+
+Average Coleman-Liau INDEX:  10.2175119111
+Median Coleman-Liau INDEX:  9.87
+
+
+Average Linsear Write Formula:  4.60931709899
+Median Linsear Write Formula:  4.0
+
+
+Average Dale-Chall Readability Score:  9.46535733192
+Median Dale-Chall Readability Score:  9.19
+
+
+Overall Flesch-Kincaid Grade across all tweets:  60.65
+
+Overall Gunning FOG Formula across all tweets:  9.6
+
+Overall SMOG INDEX across all tweets:  8.8
+
+Overall Automated Readability INDEX across all tweets:  12.3
+
+Overall Coleman-Liau INDEX across all tweets:  12.36
+
+Overall Linsear Write Formula across all tweets:  8.0
+
+Overall Dale-Chall Readability Score across all tweets:  7.2

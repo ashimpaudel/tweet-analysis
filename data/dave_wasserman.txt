@@ -1,0 +1,51 @@
+Data for  dave_wasserman's Tweets:
+
+
+Number of cleaned and evaluated tweets:  2
+
+
+Average Flesch-Kincaid grade:  4.65
+Median Flesch-Kincaid grade:  6.8
+
+
+Average Gunning FOG Formula:  7.0
+Median Gunning FOG Formula:  10.4
+
+
+Average SMOG INDEX:  0
+Median SMOG INDEX:  0
+
+
+Average Automated Readability INDEX:  6.3
+Median Automated Readability INDEX:  9.7
+
+
+Average Automated Readability INDEX:  6.3
+Median Automated Readability INDEX:  9.7
+
+
+Average Coleman-Liau INDEX:  6.235
+Median Coleman-Liau INDEX:  8.12
+
+
+Average Linsear Write Formula:  6.25
+Median Linsear Write Formula:  11.5
+
+
+Average Dale-Chall Readability Score:  7.735
+Median Dale-Chall Readability Score:  7.78
+
+
+Overall Flesch-Kincaid Grade across all tweets:  92.12
+
+Overall Gunning FOG Formula across all tweets:  7.2
+
+Overall SMOG INDEX across all tweets:  0
+
+Overall Automated Readability INDEX across all tweets:  6.5
+
+Overall Coleman-Liau INDEX across all tweets:  8.16
+
+Overall Linsear Write Formula across all tweets:  6.0
+
+Overall Dale-Chall Readability Score across all tweets:  7.32

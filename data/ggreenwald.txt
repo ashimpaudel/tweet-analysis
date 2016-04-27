@@ -1,0 +1,51 @@
+Data for  ggreenwald's Tweets:
+
+
+Number of cleaned and evaluated tweets:  2418
+
+
+Average Flesch-Kincaid grade:  9.0082299421
+Median Flesch-Kincaid grade:  9.1
+
+
+Average Gunning FOG Formula:  7.38014888337
+Median Gunning FOG Formula:  6.8
+
+
+Average SMOG INDEX:  0.261497105045
+Median SMOG INDEX:  0
+
+
+Average Automated Readability INDEX:  10.9663358147
+Median Automated Readability INDEX:  11.1
+
+
+Average Automated Readability INDEX:  10.9663358147
+Median Automated Readability INDEX:  11.1
+
+
+Average Coleman-Liau INDEX:  13.2589164599
+Median Coleman-Liau INDEX:  12.65
+
+
+Average Linsear Write Formula:  6.56803143093
+Median Linsear Write Formula:  6.0
+
+
+Average Dale-Chall Readability Score:  10.1866873449
+Median Dale-Chall Readability Score:  9.95
+
+
+Overall Flesch-Kincaid Grade across all tweets:  55.24
+
+Overall Gunning FOG Formula across all tweets:  8.4
+
+Overall SMOG INDEX across all tweets:  8.8
+
+Overall Automated Readability INDEX across all tweets:  12.3
+
+Overall Coleman-Liau INDEX across all tweets:  14.09
+
+Overall Linsear Write Formula across all tweets:  12.5
+
+Overall Dale-Chall Readability Score across all tweets:  7.47

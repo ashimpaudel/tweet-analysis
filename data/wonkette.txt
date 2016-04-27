@@ -1,0 +1,51 @@
+Data for  wonkette's Tweets:
+
+
+Number of cleaned and evaluated tweets:  3113
+
+
+Average Flesch-Kincaid grade:  6.77886283328
+Median Flesch-Kincaid grade:  6.8
+
+
+Average Gunning FOG Formula:  6.63989720527
+Median Gunning FOG Formula:  6.8
+
+
+Average SMOG INDEX:  0.0366848699004
+Median SMOG INDEX:  0
+
+
+Average Automated Readability INDEX:  8.27224542242
+Median Automated Readability INDEX:  8.2
+
+
+Average Automated Readability INDEX:  8.27224542242
+Median Automated Readability INDEX:  8.2
+
+
+Average Coleman-Liau INDEX:  10.7075811115
+Median Coleman-Liau INDEX:  10.37
+
+
+Average Linsear Write Formula:  5.25040154192
+Median Linsear Write Formula:  5.5
+
+
+Average Dale-Chall Readability Score:  9.97718278188
+Median Dale-Chall Readability Score:  9.97
+
+
+Overall Flesch-Kincaid Grade across all tweets:  60.65
+
+Overall Gunning FOG Formula across all tweets:  9.6
+
+Overall SMOG INDEX across all tweets:  3.1
+
+Overall Automated Readability INDEX across all tweets:  12.3
+
+Overall Coleman-Liau INDEX across all tweets:  12.07
+
+Overall Linsear Write Formula across all tweets:  18.0
+
+Overall Dale-Chall Readability Score across all tweets:  5.91

@@ -1,0 +1,51 @@
+Data for  jaketapper's Tweets:
+
+
+Number of cleaned and evaluated tweets:  2421
+
+
+Average Flesch-Kincaid grade:  7.1551425031
+Median Flesch-Kincaid grade:  7.2
+
+
+Average Gunning FOG Formula:  6.34002478315
+Median Gunning FOG Formula:  5.6
+
+
+Average SMOG INDEX:  0.0614622057001
+Median SMOG INDEX:  0
+
+
+Average Automated Readability INDEX:  9.39012804626
+Median Automated Readability INDEX:  9.0
+
+
+Average Automated Readability INDEX:  9.39012804626
+Median Automated Readability INDEX:  9.0
+
+
+Average Coleman-Liau INDEX:  12.2211441553
+Median Coleman-Liau INDEX:  11.53
+
+
+Average Linsear Write Formula:  4.82259396943
+Median Linsear Write Formula:  4.5
+
+
+Average Dale-Chall Readability Score:  9.72249070632
+Median Dale-Chall Readability Score:  9.35
+
+
+Overall Flesch-Kincaid Grade across all tweets:  51.18
+
+Overall Gunning FOG Formula across all tweets:  10.0
+
+Overall SMOG INDEX across all tweets:  8.8
+
+Overall Automated Readability INDEX across all tweets:  14.1
+
+Overall Coleman-Liau INDEX across all tweets:  13.98
+
+Overall Linsear Write Formula across all tweets:  8.0
+
+Overall Dale-Chall Readability Score across all tweets:  7.62

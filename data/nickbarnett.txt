@@ -1,0 +1,51 @@
+Data for  nickbarnett's Tweets:
+
+
+Number of cleaned and evaluated tweets:  2587
+
+
+Average Flesch-Kincaid grade:  3.82752222652
+Median Flesch-Kincaid grade:  3.6
+
+
+Average Gunning FOG Formula:  5.55299574797
+Median Gunning FOG Formula:  5.2
+
+
+Average SMOG INDEX:  0.207112485504
+Median SMOG INDEX:  0
+
+
+Average Automated Readability INDEX:  5.83904136065
+Median Automated Readability INDEX:  5.2
+
+
+Average Automated Readability INDEX:  5.83904136065
+Median Automated Readability INDEX:  5.2
+
+
+Average Coleman-Liau INDEX:  8.11641669888
+Median Coleman-Liau INDEX:  7.25
+
+
+Average Linsear Write Formula:  3.58658678005
+Median Linsear Write Formula:  3.0
+
+
+Average Dale-Chall Readability Score:  7.0195052184
+Median Dale-Chall Readability Score:  7.05
+
+
+Overall Flesch-Kincaid Grade across all tweets:  85.69
+
+Overall Gunning FOG Formula across all tweets:  6.4
+
+Overall SMOG INDEX across all tweets:  3.1
+
+Overall Automated Readability INDEX across all tweets:  6.7
+
+Overall Coleman-Liau INDEX across all tweets:  9.26
+
+Overall Linsear Write Formula across all tweets:  6.5
+
+Overall Dale-Chall Readability Score across all tweets:  6.12

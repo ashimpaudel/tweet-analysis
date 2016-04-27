@@ -1,0 +1,51 @@
+Data for  mcclatchydc's Tweets:
+
+
+Number of cleaned and evaluated tweets:  1517
+
+
+Average Flesch-Kincaid grade:  7.75306526038
+Median Flesch-Kincaid grade:  7.6
+
+
+Average Gunning FOG Formula:  6.60487804878
+Median Gunning FOG Formula:  6.4
+
+
+Average SMOG INDEX:  0.0895847066579
+Median SMOG INDEX:  0
+
+
+Average Automated Readability INDEX:  9.83665128543
+Median Automated Readability INDEX:  9.6
+
+
+Average Automated Readability INDEX:  9.83665128543
+Median Automated Readability INDEX:  9.6
+
+
+Average Coleman-Liau INDEX:  12.6583058668
+Median Coleman-Liau INDEX:  12.05
+
+
+Average Linsear Write Formula:  5.39024390244
+Median Linsear Write Formula:  5.5
+
+
+Average Dale-Chall Readability Score:  10.0400461437
+Median Dale-Chall Readability Score:  9.94
+
+
+Overall Flesch-Kincaid Grade across all tweets:  59.3
+
+Overall Gunning FOG Formula across all tweets:  6.8
+
+Overall SMOG INDEX across all tweets:  3.1
+
+Overall Automated Readability INDEX across all tweets:  10.0
+
+Overall Coleman-Liau INDEX across all tweets:  13.15
+
+Overall Linsear Write Formula across all tweets:  7.0
+
+Overall Dale-Chall Readability Score across all tweets:  7.49

@@ -1,0 +1,51 @@
+Data for  republicanstudy's Tweets:
+
+
+Number of cleaned and evaluated tweets:  1730
+
+
+Average Flesch-Kincaid grade:  7.99682080925
+Median Flesch-Kincaid grade:  7.6
+
+
+Average Gunning FOG Formula:  6.81710982659
+Median Gunning FOG Formula:  6.4
+
+
+Average SMOG INDEX:  0.0424277456647
+Median SMOG INDEX:  0
+
+
+Average Automated Readability INDEX:  10.1574566474
+Median Automated Readability INDEX:  9.9
+
+
+Average Automated Readability INDEX:  10.1574566474
+Median Automated Readability INDEX:  9.9
+
+
+Average Coleman-Liau INDEX:  12.9818786127
+Median Coleman-Liau INDEX:  12.36
+
+
+Average Linsear Write Formula:  5.92196531792
+Median Linsear Write Formula:  5.5
+
+
+Average Dale-Chall Readability Score:  10.0795780347
+Median Dale-Chall Readability Score:  9.95
+
+
+Overall Flesch-Kincaid Grade across all tweets:  53.21
+
+Overall Gunning FOG Formula across all tweets:  9.2
+
+Overall SMOG INDEX across all tweets:  8.8
+
+Overall Automated Readability INDEX across all tweets:  13.5
+
+Overall Coleman-Liau INDEX across all tweets:  14.16
+
+Overall Linsear Write Formula across all tweets:  15.5
+
+Overall Dale-Chall Readability Score across all tweets:  7.31

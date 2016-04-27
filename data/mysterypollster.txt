@@ -1,0 +1,51 @@
+Data for  mysterypollster's Tweets:
+
+
+Number of cleaned and evaluated tweets:  2193
+
+
+Average Flesch-Kincaid grade:  7.5163246694
+Median Flesch-Kincaid grade:  7.6
+
+
+Average Gunning FOG Formula:  6.71007751938
+Median Gunning FOG Formula:  6.4
+
+
+Average SMOG INDEX:  0.140902872777
+Median SMOG INDEX:  0
+
+
+Average Automated Readability INDEX:  10.5399908801
+Median Automated Readability INDEX:  10.6
+
+
+Average Automated Readability INDEX:  10.5399908801
+Median Automated Readability INDEX:  10.6
+
+
+Average Coleman-Liau INDEX:  13.1527040584
+Median Coleman-Liau INDEX:  12.81
+
+
+Average Linsear Write Formula:  5.63885088919
+Median Linsear Write Formula:  5.0
+
+
+Average Dale-Chall Readability Score:  9.7890880073
+Median Dale-Chall Readability Score:  9.62
+
+
+Overall Flesch-Kincaid Grade across all tweets:  61.67
+
+Overall Gunning FOG Formula across all tweets:  9.2
+
+Overall SMOG INDEX across all tweets:  8.8
+
+Overall Automated Readability INDEX across all tweets:  13.6
+
+Overall Coleman-Liau INDEX across all tweets:  14.33
+
+Overall Linsear Write Formula across all tweets:  20.0
+
+Overall Dale-Chall Readability Score across all tweets:  7.12

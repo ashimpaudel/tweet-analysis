@@ -1,0 +1,51 @@
+Data for  mikememoli's Tweets:
+
+
+Number of cleaned and evaluated tweets:  2323
+
+
+Average Flesch-Kincaid grade:  7.20297029703
+Median Flesch-Kincaid grade:  7.2
+
+
+Average Gunning FOG Formula:  6.89866551873
+Median Gunning FOG Formula:  6.4
+
+
+Average SMOG INDEX:  0.176883340508
+Median SMOG INDEX:  0
+
+
+Average Automated Readability INDEX:  9.12815325011
+Median Automated Readability INDEX:  9.1
+
+
+Average Automated Readability INDEX:  9.12815325011
+Median Automated Readability INDEX:  9.1
+
+
+Average Coleman-Liau INDEX:  11.2455187258
+Median Coleman-Liau INDEX:  11.07
+
+
+Average Linsear Write Formula:  6.07597933706
+Median Linsear Write Formula:  5.0
+
+
+Average Dale-Chall Readability Score:  9.18663796814
+Median Dale-Chall Readability Score:  9.19
+
+
+Overall Flesch-Kincaid Grade across all tweets:  60.65
+
+Overall Gunning FOG Formula across all tweets:  9.6
+
+Overall SMOG INDEX across all tweets:  8.8
+
+Overall Automated Readability INDEX across all tweets:  12.8
+
+Overall Coleman-Liau INDEX across all tweets:  12.76
+
+Overall Linsear Write Formula across all tweets:  14.0
+
+Overall Dale-Chall Readability Score across all tweets:  7.07

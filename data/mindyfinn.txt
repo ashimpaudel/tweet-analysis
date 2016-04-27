@@ -1,0 +1,51 @@
+Data for  mindyfinn's Tweets:
+
+
+Number of cleaned and evaluated tweets:  2259
+
+
+Average Flesch-Kincaid grade:  6.34705621957
+Median Flesch-Kincaid grade:  6.4
+
+
+Average Gunning FOG Formula:  6.00867640549
+Median Gunning FOG Formula:  5.6
+
+
+Average SMOG INDEX:  0.263346613546
+Median SMOG INDEX:  0
+
+
+Average Automated Readability INDEX:  8.40646303674
+Median Automated Readability INDEX:  8.0
+
+
+Average Automated Readability INDEX:  8.40646303674
+Median Automated Readability INDEX:  8.0
+
+
+Average Coleman-Liau INDEX:  11.1242363878
+Median Coleman-Liau INDEX:  10.51
+
+
+Average Linsear Write Formula:  4.50486941124
+Median Linsear Write Formula:  4.0
+
+
+Average Dale-Chall Readability Score:  9.1531518371
+Median Dale-Chall Readability Score:  9.05
+
+
+Overall Flesch-Kincaid Grade across all tweets:  68.77
+
+Overall Gunning FOG Formula across all tweets:  6.4
+
+Overall SMOG INDEX across all tweets:  3.1
+
+Overall Automated Readability INDEX across all tweets:  9.1
+
+Overall Coleman-Liau INDEX across all tweets:  11.99
+
+Overall Linsear Write Formula across all tweets:  6.5
+
+Overall Dale-Chall Readability Score across all tweets:  7.23

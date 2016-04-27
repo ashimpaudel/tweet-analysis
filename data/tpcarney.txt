@@ -1,0 +1,51 @@
+Data for  tpcarney's Tweets:
+
+
+Number of cleaned and evaluated tweets:  2646
+
+
+Average Flesch-Kincaid grade:  6.41530612245
+Median Flesch-Kincaid grade:  6.4
+
+
+Average Gunning FOG Formula:  6.23250188964
+Median Gunning FOG Formula:  5.6
+
+
+Average SMOG INDEX:  0.174414210128
+Median SMOG INDEX:  0
+
+
+Average Automated Readability INDEX:  8.58046107332
+Median Automated Readability INDEX:  8.2
+
+
+Average Automated Readability INDEX:  8.58046107332
+Median Automated Readability INDEX:  8.2
+
+
+Average Coleman-Liau INDEX:  11.1445842782
+Median Coleman-Liau INDEX:  10.58
+
+
+Average Linsear Write Formula:  4.76625094482
+Median Linsear Write Formula:  4.0
+
+
+Average Dale-Chall Readability Score:  8.95093726379
+Median Dale-Chall Readability Score:  8.84
+
+
+Overall Flesch-Kincaid Grade across all tweets:  68.77
+
+Overall Gunning FOG Formula across all tweets:  6.4
+
+Overall SMOG INDEX across all tweets:  3.1
+
+Overall Automated Readability INDEX across all tweets:  8.7
+
+Overall Coleman-Liau INDEX across all tweets:  11.64
+
+Overall Linsear Write Formula across all tweets:  5.5
+
+Overall Dale-Chall Readability Score across all tweets:  6.95

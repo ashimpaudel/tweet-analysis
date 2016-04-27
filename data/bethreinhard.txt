@@ -1,0 +1,51 @@
+Data for  bethreinhard's Tweets:
+
+
+Number of cleaned and evaluated tweets:  1534
+
+
+Average Flesch-Kincaid grade:  6.55065189048
+Median Flesch-Kincaid grade:  6.8
+
+
+Average Gunning FOG Formula:  7.50795306389
+Median Gunning FOG Formula:  7.2
+
+
+Average SMOG INDEX:  0.154954367666
+Median SMOG INDEX:  0
+
+
+Average Automated Readability INDEX:  8.97718383312
+Median Automated Readability INDEX:  9.1
+
+
+Average Automated Readability INDEX:  8.97718383312
+Median Automated Readability INDEX:  9.1
+
+
+Average Coleman-Liau INDEX:  10.5401629726
+Median Coleman-Liau INDEX:  10.1
+
+
+Average Linsear Write Formula:  6.67079530639
+Median Linsear Write Formula:  6.0
+
+
+Average Dale-Chall Readability Score:  9.17267926988
+Median Dale-Chall Readability Score:  9.03
+
+
+Overall Flesch-Kincaid Grade across all tweets:  70.13
+
+Overall Gunning FOG Formula across all tweets:  9.2
+
+Overall SMOG INDEX across all tweets:  3.1
+
+Overall Automated Readability INDEX across all tweets:  11.1
+
+Overall Coleman-Liau INDEX across all tweets:  11.25
+
+Overall Linsear Write Formula across all tweets:  8.0
+
+Overall Dale-Chall Readability Score across all tweets:  7.14

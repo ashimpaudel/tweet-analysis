@@ -1,0 +1,51 @@
+Data for  suzykhimm's Tweets:
+
+
+Number of cleaned and evaluated tweets:  1850
+
+
+Average Flesch-Kincaid grade:  7.3052972973
+Median Flesch-Kincaid grade:  7.2
+
+
+Average Gunning FOG Formula:  6.63286486486
+Median Gunning FOG Formula:  6.0
+
+
+Average SMOG INDEX:  0.127945945946
+Median SMOG INDEX:  0
+
+
+Average Automated Readability INDEX:  9.562
+Median Automated Readability INDEX:  9.3
+
+
+Average Automated Readability INDEX:  9.562
+Median Automated Readability INDEX:  9.3
+
+
+Average Coleman-Liau INDEX:  12.0946594595
+Median Coleman-Liau INDEX:  11.43
+
+
+Average Linsear Write Formula:  5.26702702703
+Median Linsear Write Formula:  4.5
+
+
+Average Dale-Chall Readability Score:  9.62501621622
+Median Dale-Chall Readability Score:  9.36
+
+
+Overall Flesch-Kincaid Grade across all tweets:  65.73
+
+Overall Gunning FOG Formula across all tweets:  7.6
+
+Overall SMOG INDEX across all tweets:  3.1
+
+Overall Automated Readability INDEX across all tweets:  10.7
+
+Overall Coleman-Liau INDEX across all tweets:  12.98
+
+Overall Linsear Write Formula across all tweets:  4.5
+
+Overall Dale-Chall Readability Score across all tweets:  7.85

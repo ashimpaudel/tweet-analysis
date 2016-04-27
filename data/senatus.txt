@@ -1,0 +1,51 @@
+Data for  senatus's Tweets:
+
+
+Number of cleaned and evaluated tweets:  3191
+
+
+Average Flesch-Kincaid grade:  7.25126919461
+Median Flesch-Kincaid grade:  7.2
+
+
+Average Gunning FOG Formula:  6.94428078972
+Median Gunning FOG Formula:  6.8
+
+
+Average SMOG INDEX:  0.0511751801943
+Median SMOG INDEX:  0
+
+
+Average Automated Readability INDEX:  9.90003133814
+Median Automated Readability INDEX:  10.1
+
+
+Average Automated Readability INDEX:  9.90003133814
+Median Automated Readability INDEX:  10.1
+
+
+Average Coleman-Liau INDEX:  12.3635255406
+Median Coleman-Liau INDEX:  12.1
+
+
+Average Linsear Write Formula:  6.04026950799
+Median Linsear Write Formula:  6.0
+
+
+Average Dale-Chall Readability Score:  10.0664117831
+Median Dale-Chall Readability Score:  9.95
+
+
+Overall Flesch-Kincaid Grade across all tweets:  61.67
+
+Overall Gunning FOG Formula across all tweets:  9.2
+
+Overall SMOG INDEX across all tweets:  3.1
+
+Overall Automated Readability INDEX across all tweets:  13.0
+
+Overall Coleman-Liau INDEX across all tweets:  13.58
+
+Overall Linsear Write Formula across all tweets:  4.5
+
+Overall Dale-Chall Readability Score across all tweets:  6.53

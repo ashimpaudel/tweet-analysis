@@ -1,0 +1,51 @@
+Data for  nathandaschle's Tweets:
+
+
+Number of cleaned and evaluated tweets:  2036
+
+
+Average Flesch-Kincaid grade:  5.43742632613
+Median Flesch-Kincaid grade:  5.2
+
+
+Average Gunning FOG Formula:  5.86326129666
+Median Gunning FOG Formula:  5.6
+
+
+Average SMOG INDEX:  0.304616895874
+Median SMOG INDEX:  0
+
+
+Average Automated Readability INDEX:  7.78138506876
+Median Automated Readability INDEX:  7.3
+
+
+Average Automated Readability INDEX:  7.78138506876
+Median Automated Readability INDEX:  7.3
+
+
+Average Coleman-Liau INDEX:  10.4745333988
+Median Coleman-Liau INDEX:  9.95
+
+
+Average Linsear Write Formula:  4.41625736739
+Median Linsear Write Formula:  3.5
+
+
+Average Dale-Chall Readability Score:  8.7983546169
+Median Dale-Chall Readability Score:  8.5
+
+
+Overall Flesch-Kincaid Grade across all tweets:  78.25
+
+Overall Gunning FOG Formula across all tweets:  6.0
+
+Overall SMOG INDEX across all tweets:  3.1
+
+Overall Automated Readability INDEX across all tweets:  7.9
+
+Overall Coleman-Liau INDEX across all tweets:  10.88
+
+Overall Linsear Write Formula across all tweets:  3.5
+
+Overall Dale-Chall Readability Score across all tweets:  6.72

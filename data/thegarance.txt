@@ -1,0 +1,51 @@
+Data for  thegarance's Tweets:
+
+
+Number of cleaned and evaluated tweets:  756
+
+
+Average Flesch-Kincaid grade:  6.9421957672
+Median Flesch-Kincaid grade:  6.8
+
+
+Average Gunning FOG Formula:  6.58201058201
+Median Gunning FOG Formula:  6.0
+
+
+Average SMOG INDEX:  0.0615079365079
+Median SMOG INDEX:  0
+
+
+Average Automated Readability INDEX:  8.78796296296
+Median Automated Readability INDEX:  8.5
+
+
+Average Automated Readability INDEX:  8.78796296296
+Median Automated Readability INDEX:  8.5
+
+
+Average Coleman-Liau INDEX:  11.2141931217
+Median Coleman-Liau INDEX:  10.74
+
+
+Average Linsear Write Formula:  5.06746031746
+Median Linsear Write Formula:  4.5
+
+
+Average Dale-Chall Readability Score:  9.60541005291
+Median Dale-Chall Readability Score:  9.35
+
+
+Overall Flesch-Kincaid Grade across all tweets:  61.67
+
+Overall Gunning FOG Formula across all tweets:  9.2
+
+Overall SMOG INDEX across all tweets:  3.1
+
+Overall Automated Readability INDEX across all tweets:  12.0
+
+Overall Coleman-Liau INDEX across all tweets:  12.53
+
+Overall Linsear Write Formula across all tweets:  7.0
+
+Overall Dale-Chall Readability Score across all tweets:  8.37

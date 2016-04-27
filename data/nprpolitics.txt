@@ -1,0 +1,51 @@
+Data for  nprpolitics's Tweets:
+
+
+Number of cleaned and evaluated tweets:  1684
+
+
+Average Flesch-Kincaid grade:  6.6924584323
+Median Flesch-Kincaid grade:  6.8
+
+
+Average Gunning FOG Formula:  6.12945368171
+Median Gunning FOG Formula:  6.0
+
+
+Average SMOG INDEX:  0.0435866983373
+Median SMOG INDEX:  0
+
+
+Average Automated Readability INDEX:  8.46199524941
+Median Automated Readability INDEX:  8.4
+
+
+Average Automated Readability INDEX:  8.46199524941
+Median Automated Readability INDEX:  8.4
+
+
+Average Coleman-Liau INDEX:  11.3675534442
+Median Coleman-Liau INDEX:  11.06
+
+
+Average Linsear Write Formula:  4.57185273159
+Median Linsear Write Formula:  4.5
+
+
+Average Dale-Chall Readability Score:  10.3260154394
+Median Dale-Chall Readability Score:  10.01
+
+
+Overall Flesch-Kincaid Grade across all tweets:  55.58
+
+Overall Gunning FOG Formula across all tweets:  11.6
+
+Overall SMOG INDEX across all tweets:  8.8
+
+Overall Automated Readability INDEX across all tweets:  15.5
+
+Overall Coleman-Liau INDEX across all tweets:  13.52
+
+Overall Linsear Write Formula across all tweets:  13.5
+
+Overall Dale-Chall Readability Score across all tweets:  7.42

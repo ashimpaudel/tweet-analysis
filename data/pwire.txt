@@ -1,0 +1,51 @@
+Data for  pwire's Tweets:
+
+
+Number of cleaned and evaluated tweets:  1
+
+
+Average Flesch-Kincaid grade:  10.7
+Median Flesch-Kincaid grade:  10.7
+
+
+Average Gunning FOG Formula:  6.0
+Median Gunning FOG Formula:  6.0
+
+
+Average SMOG INDEX:  0
+Median SMOG INDEX:  0
+
+
+Average Automated Readability INDEX:  10.9
+Median Automated Readability INDEX:  10.9
+
+
+Average Automated Readability INDEX:  10.9
+Median Automated Readability INDEX:  10.9
+
+
+Average Coleman-Liau INDEX:  14.88
+Median Coleman-Liau INDEX:  14.88
+
+
+Average Linsear Write Formula:  5.0
+Median Linsear Write Formula:  5.0
+
+
+Average Dale-Chall Readability Score:  13.61
+Median Dale-Chall Readability Score:  13.61
+
+
+Overall Flesch-Kincaid Grade across all tweets:  43.39
+
+Overall Gunning FOG Formula across all tweets:  6.4
+
+Overall SMOG INDEX across all tweets:  0
+
+Overall Automated Readability INDEX across all tweets:  11.5
+
+Overall Coleman-Liau INDEX across all tweets:  15.29
+
+Overall Linsear Write Formula across all tweets:  5.5
+
+Overall Dale-Chall Readability Score across all tweets:  12.79

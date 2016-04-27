@@ -1,0 +1,51 @@
+Data for  chucktodd's Tweets:
+
+
+Number of cleaned and evaluated tweets:  2369
+
+
+Average Flesch-Kincaid grade:  6.31566061629
+Median Flesch-Kincaid grade:  6.0
+
+
+Average Gunning FOG Formula:  6.76217813423
+Median Gunning FOG Formula:  6.0
+
+
+Average SMOG INDEX:  0.326298016041
+Median SMOG INDEX:  0
+
+
+Average Automated Readability INDEX:  8.02119037569
+Median Automated Readability INDEX:  7.6
+
+
+Average Automated Readability INDEX:  8.02119037569
+Median Automated Readability INDEX:  7.6
+
+
+Average Coleman-Liau INDEX:  10.0397847193
+Median Coleman-Liau INDEX:  9.35
+
+
+Average Linsear Write Formula:  5.6348670325
+Median Linsear Write Formula:  5.0
+
+
+Average Dale-Chall Readability Score:  8.70335162516
+Median Dale-Chall Readability Score:  8.5
+
+
+Overall Flesch-Kincaid Grade across all tweets:  74.19
+
+Overall Gunning FOG Formula across all tweets:  7.6
+
+Overall SMOG INDEX across all tweets:  3.1
+
+Overall Automated Readability INDEX across all tweets:  9.2
+
+Overall Coleman-Liau INDEX across all tweets:  10.61
+
+Overall Linsear Write Formula across all tweets:  10.5
+
+Overall Dale-Chall Readability Score across all tweets:  6.56

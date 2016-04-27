@@ -1,0 +1,51 @@
+Data for  cookpolitical's Tweets:
+
+
+Number of cleaned and evaluated tweets:  1073
+
+
+Average Flesch-Kincaid grade:  7.58881640261
+Median Flesch-Kincaid grade:  7.6
+
+
+Average Gunning FOG Formula:  6.90959925443
+Median Gunning FOG Formula:  6.8
+
+
+Average SMOG INDEX:  0.0659832246039
+Median SMOG INDEX:  0
+
+
+Average Automated Readability INDEX:  10.3088536813
+Median Automated Readability INDEX:  10.1
+
+
+Average Automated Readability INDEX:  10.3088536813
+Median Automated Readability INDEX:  10.1
+
+
+Average Coleman-Liau INDEX:  12.90277726
+Median Coleman-Liau INDEX:  12.37
+
+
+Average Linsear Write Formula:  6.22693383038
+Median Linsear Write Formula:  5.5
+
+
+Average Dale-Chall Readability Score:  9.85287045666
+Median Dale-Chall Readability Score:  9.62
+
+
+Overall Flesch-Kincaid Grade across all tweets:  49.49
+
+Overall Gunning FOG Formula across all tweets:  14.0
+
+Overall SMOG INDEX across all tweets:  11.2
+
+Overall Automated Readability INDEX across all tweets:  19.4
+
+Overall Coleman-Liau INDEX across all tweets:  14.57
+
+Overall Linsear Write Formula across all tweets:  8.0
+
+Overall Dale-Chall Readability Score across all tweets:  7.47

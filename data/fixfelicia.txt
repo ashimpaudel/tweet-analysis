@@ -1,0 +1,51 @@
+Data for  fixfelicia's Tweets:
+
+
+Number of cleaned and evaluated tweets:  21
+
+
+Average Flesch-Kincaid grade:  6.19523809524
+Median Flesch-Kincaid grade:  6.4
+
+
+Average Gunning FOG Formula:  5.90476190476
+Median Gunning FOG Formula:  5.2
+
+
+Average SMOG INDEX:  0
+Median SMOG INDEX:  0
+
+
+Average Automated Readability INDEX:  9.39047619048
+Median Automated Readability INDEX:  9.9
+
+
+Average Automated Readability INDEX:  9.39047619048
+Median Automated Readability INDEX:  9.9
+
+
+Average Coleman-Liau INDEX:  11.9161904762
+Median Coleman-Liau INDEX:  11.3
+
+
+Average Linsear Write Formula:  4.35714285714
+Median Linsear Write Formula:  3.5
+
+
+Average Dale-Chall Readability Score:  10.5842857143
+Median Dale-Chall Readability Score:  9.2
+
+
+Overall Flesch-Kincaid Grade across all tweets:  60.65
+
+Overall Gunning FOG Formula across all tweets:  9.6
+
+Overall SMOG INDEX across all tweets:  3.1
+
+Overall Automated Readability INDEX across all tweets:  13.5
+
+Overall Coleman-Liau INDEX across all tweets:  13.98
+
+Overall Linsear Write Formula across all tweets:  14.5
+
+Overall Dale-Chall Readability Score across all tweets:  10.19

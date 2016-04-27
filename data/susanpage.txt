@@ -1,0 +1,51 @@
+Data for  susanpage's Tweets:
+
+
+Number of cleaned and evaluated tweets:  2153
+
+
+Average Flesch-Kincaid grade:  6.90236878774
+Median Flesch-Kincaid grade:  6.8
+
+
+Average Gunning FOG Formula:  6.29465861588
+Median Gunning FOG Formula:  5.6
+
+
+Average SMOG INDEX:  0.203111936832
+Median SMOG INDEX:  0
+
+
+Average Automated Readability INDEX:  9.85661867162
+Median Automated Readability INDEX:  9.7
+
+
+Average Automated Readability INDEX:  9.85661867162
+Median Automated Readability INDEX:  9.7
+
+
+Average Coleman-Liau INDEX:  12.493780771
+Median Coleman-Liau INDEX:  12.01
+
+
+Average Linsear Write Formula:  5.17510450534
+Median Linsear Write Formula:  4.5
+
+
+Average Dale-Chall Readability Score:  9.45963307013
+Median Dale-Chall Readability Score:  9.25
+
+
+Overall Flesch-Kincaid Grade across all tweets:  68.77
+
+Overall Gunning FOG Formula across all tweets:  6.4
+
+Overall SMOG INDEX across all tweets:  3.1
+
+Overall Automated Readability INDEX across all tweets:  9.8
+
+Overall Coleman-Liau INDEX across all tweets:  13.15
+
+Overall Linsear Write Formula across all tweets:  4.0
+
+Overall Dale-Chall Readability Score across all tweets:  7.11

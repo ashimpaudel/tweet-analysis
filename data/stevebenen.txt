@@ -1,0 +1,51 @@
+Data for  stevebenen's Tweets:
+
+
+Number of cleaned and evaluated tweets:  3166
+
+
+Average Flesch-Kincaid grade:  7.38212255212
+Median Flesch-Kincaid grade:  7.2
+
+
+Average Gunning FOG Formula:  7.09551484523
+Median Gunning FOG Formula:  6.8
+
+
+Average SMOG INDEX:  0.143493367025
+Median SMOG INDEX:  0
+
+
+Average Automated Readability INDEX:  9.59977890082
+Median Automated Readability INDEX:  9.6
+
+
+Average Automated Readability INDEX:  9.59977890082
+Median Automated Readability INDEX:  9.6
+
+
+Average Coleman-Liau INDEX:  11.7178711308
+Median Coleman-Liau INDEX:  11.21
+
+
+Average Linsear Write Formula:  6.35012634239
+Median Linsear Write Formula:  6.0
+
+
+Average Dale-Chall Readability Score:  9.28005685407
+Median Dale-Chall Readability Score:  9.12
+
+
+Overall Flesch-Kincaid Grade across all tweets:  61.67
+
+Overall Gunning FOG Formula across all tweets:  9.2
+
+Overall SMOG INDEX across all tweets:  8.8
+
+Overall Automated Readability INDEX across all tweets:  12.5
+
+Overall Coleman-Liau INDEX across all tweets:  12.82
+
+Overall Linsear Write Formula across all tweets:  5.5
+
+Overall Dale-Chall Readability Score across all tweets:  6.88
