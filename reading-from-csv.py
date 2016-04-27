@@ -12,10 +12,10 @@ import sys
 
 
 if (len(sys.argv) == 2):
-	f = open("./tweets/" + sys.argv[1] + "_cleaned_tweets.txt", 'w')
+	f = open("C:\\Users\\Ashim\\Desktop\\tweet project\\tweet-analysis\\tweets\\" + sys.argv[1] + "_cleaned_tweets.txt", 'w')
 
 
-	original = file("./tweets/" + sys.argv[1] + "_tweets.csv", 'rU')
+	original = file("C:\\Users\\Ashim\\Desktop\\tweet project\\tweet-analysis\\tweets\\" + sys.argv[1] + "_tweets.csv", 'rU')
 	reader = csv.reader(original)
 
 	cleaned_tweets = []
@@ -190,7 +190,7 @@ if (len(sys.argv) == 2):
 	print "Median Dale-Chall Readability Score: ", dcr_median_grade
 
 	#evaluating all tweet history.
-	with open('./tweets/' + sys.argv[1] + '_cleaned_tweets.txt', 'r') as content_file:
+	with open("C:\\Users\\Ashim\\Desktop\\tweet project\\tweet-analysis\\tweets\\" + sys.argv[1] + "_cleaned_tweets.txt", "r") as content_file:
 		content = content_file.read()
 	
 	overall_flesch_kincaid_grade = textstat.flesch_reading_ease(content)
